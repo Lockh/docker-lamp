@@ -14,7 +14,7 @@ Dockerfile to build a LAMP container image.
 Build the image yourself.
 
 ```bash
-docker build -t lockh/mysql github.com/lockh/docker-lamp
+docker build -t lockh/lamp github.com/lockh/docker-lamp
 ```
 
 # Quick Start
