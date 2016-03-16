@@ -17,7 +17,7 @@ Dockerfile to build a LAMP container image.
 Build the image yourself.
 
 ```bash
-docker build -t sameersbn/mysql github.com/sameersbn/docker-mysql
+docker build -t lockh/mysql github.com/lockh/docker-lamp
 ```
 
 # Quick Start
@@ -25,5 +25,5 @@ docker build -t sameersbn/mysql github.com/sameersbn/docker-mysql
 Run the mysql image
 
 ```bash
-docker run --name mysql -d sameersbn/mysql:latest
+docker run --name mysql -d lockh/lamp:latest
 ```
