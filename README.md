@@ -6,11 +6,6 @@
 - [Reporting Issues](#reporting-issues)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
-- [Data Store](#data-store)
-- [Creating User and Database at Launch](#creating-user-and-database-at-launch)
-- [Creating remote user with privileged access](#creating-remote-user-with-privileged-access)
-- [Shell Access](#shell-access)
-- [Upgrading](#upgrading)
 
 # Introduction
 
